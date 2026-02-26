@@ -63,6 +63,3 @@ python benchmark.py
 <p align="center">
 <b>Developed by Manoj Anandan</b> 
 </p>
-Would you like me to help you write a **LinkedIn post** to share these two 5/5 projects with your network?
-
-```
