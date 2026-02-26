@@ -30,7 +30,7 @@ The project implements a full-stack integration:
 4. **GPU SMs**: Optimized execution across CUDA Streaming Multiprocessors.
 
 <p align="center">
-  <img src="images/architecture_diagram.png" width="800">
+  <img width="800" alt="architecture-diagram" src="https://github.com/user-attachments/assets/88ddfd78-a938-4935-9f9a-1d68597729f1"/>
 </p>
 
 ##  Performance Benchmarks (NVIDIA T4)
