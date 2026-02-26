@@ -57,8 +57,8 @@ By using `@jax.jit`, the entire forward pass, loss calculation, and gradient upd
 ```bash
 pip install -r requirements.txt
 python benchmark.py
-
 ---
 <p align="center">
-  <b><i>Developed by Manoj Anandan</i></b>
+  <b>Developed by Manoj Anandan</b> <br>
+  <i>AI Infrastructure & High-Performance Computing Engineer</i>
 </p>
