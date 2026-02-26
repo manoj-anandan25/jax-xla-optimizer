@@ -50,7 +50,7 @@ pip install -r requirements.txt
 python setup.py install
 
 # Run performance benchmark
-python scripts/benchmark.py
+python benchmark.py
 
 ```
 
