@@ -59,5 +59,3 @@ python scripts/benchmark.py
 <p align="center">
 <b>Developed by Manoj Anandan</b> 
 </p>
-
-```
