@@ -1,0 +1,6 @@
+# JAX Core 
+jax==0.7.2
+jaxlib
+
+# Supporting Libraries
+numpy
