@@ -30,7 +30,7 @@ The project follows the functional transformation pipeline:
 
 
 <p align="center">
-  <img width="1536" height="1024" alt="architecture-daigram" src="https://github.com/user-attachments/assets/88ddfd78-a938-4935-9f9a-1d68597729f1" width="800">
+  <img width="800" height="1024" alt="architecture-daigram" src="https://github.com/user-attachments/assets/88ddfd78-a938-4935-9f9a-1d68597729f1"/>
 </p>
 
 ##  Performance Benchmarks (NVIDIA T4)
